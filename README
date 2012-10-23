@@ -1,0 +1,10 @@
+README
+
+cliSweep 0.1
+Mike Dank
+
+Wrote this minesweeper console game back four years ago when I had some free time. 
+
+You input your spaces using computer style coordinates (Top left is 0,0 bottem right is 9,9 etc). 
+You can't label where you think there are mines though, which adds a layer of difficulty (let's call it a feature).
+Placement of the the 10 mines is random on each launch.
